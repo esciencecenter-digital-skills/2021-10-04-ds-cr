@@ -327,7 +327,7 @@ if temperature > -50:
  (Optional): Use [https://hemingwayapp.com/](https://hemingwayapp.com/) to analyse your README file and make your writing bold and clear!
 
 ### Exercise: Github Pages (15 minutes)
-Follow instructions on https://escience-academy.github.io/coderefinery-documentation/05-gh-pages/
+Follow instructions on https://github.com/esciencecenter-digital-skills/coderefinery-documentation/blob/gh-pages/_episodes/05-gh-pages.md
 
 Paste a link to your github page in the collaborative document.
 
